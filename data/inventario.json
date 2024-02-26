@@ -1,0 +1,32 @@
+{
+    "productos": {
+        "123": {
+            "id": 123,
+            "nameProducto": "silla",
+            "stock": 24,
+            "stockMax": 60,
+            "stockMin": 10,
+            "proveedor": "camilo",
+            "estado": "disponible"
+        },
+        "456": {
+            "id": 456,
+            "nameProducto": "tv",
+            "stock": 4,
+            "stockMax": 30,
+            "stockMin": 5,
+            "proveedor": "camilo",
+            "estado": "min-critico"
+        },
+        "452": {
+            "id": 452,
+            "nameProducto": "retg",
+            "stock": 20,
+            "stockMax": 15,
+            "stockMin": 5,
+            "proveedor": "frtr",
+            "estado": "max-critico"
+        }
+    },
+    "proveedores": {}
+}
